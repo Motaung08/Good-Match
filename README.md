@@ -8,7 +8,7 @@ The sentence to be processed will read as {name1} matches {name2}, for example
 - Starting from the left, read the first character in the sentence and count how many times that character occurs.
 - Move on to the next character that has not been counted yet
 - Repeat until all characters in the sentence have been counted
-- You should now have a number showing how many times each character occurred in the sentence
+- You should now have a number showing how many times each character occurred in the sentence <br/>
 This number now needs to be reduced to a 2 digit number.
 - Add the left most and right most number that has not been added yet and put its sum at the end of the result.
 - If there is only one number left add that number to the end of the result
